@@ -1,0 +1,9 @@
+# ninja log v5
+8	302	7313652192729778	CMakeFiles/PriorityQueueDSA.dir/PriorityQueue.cpp.obj	264fc8b76ddaa3cb
+14	314	7313652192869760	CMakeFiles/PriorityQueueDSA.dir/ShortTest.cpp.obj	f4f41234f0a368d1
+0	528	7313652194999904	CMakeFiles/PriorityQueueDSA.dir/main.cpp.obj	4d490159aef72666
+529	659	7313652196220190	PriorityQueueDSA.exe	fabe52fbd00dee74
+4	522	7313652761846868	CMakeFiles/PriorityQueueDSA.dir/ExtendedTest.cpp.obj	193bbad454a7913d
+523	658	7313652763067360	PriorityQueueDSA.exe	5743a8b815ca17b6
+5	488	7313652868421085	CMakeFiles/PriorityQueueDSA.dir/main.cpp.obj	4d490159aef72666
+489	626	7313652869720396	PriorityQueueDSA.exe	5743a8b815ca17b6
