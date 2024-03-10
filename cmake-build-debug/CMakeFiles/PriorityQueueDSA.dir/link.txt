@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2023.3.4\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\PriorityQueueDSA.dir/objects.a
+C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\ar.exe qc CMakeFiles\PriorityQueueDSA.dir/objects.a @CMakeFiles\PriorityQueueDSA.dir\objects1.rsp
+C:\PROGRA~1\JETBRA~1\CLION2~1.4\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\PriorityQueueDSA.dir/objects.a -Wl,--no-whole-archive -o PriorityQueueDSA.exe -Wl,--out-implib,libPriorityQueueDSA.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\PriorityQueueDSA.dir\linkLibs.rsp

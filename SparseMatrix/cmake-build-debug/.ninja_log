@@ -1,0 +1,17 @@
+# ninja log v5
+14	140	7313636681942746	CMakeFiles/SparseMatrixDSA.dir/ShortTest.cpp.obj	ede44f1f55a6f347
+1	221	7313637944013098	build.ninja	8a7905efc3d6476f
+5	163	7313637575512746	CMakeFiles/SparseMatrixDSA.dir/Matrix.cpp.obj	93971605bba9451e
+3	452	7313635977710380	CMakeFiles/SparseMatrixDSA.dir/app.cpp.obj	3744f8f532543cb8
+3	489	7313636685443150	CMakeFiles/SparseMatrixDSA.dir/main.cpp.obj	c47289ff7841bacf
+164	318	7313637576992707	SparseMatrixDSA.exe	838a132f7acca120
+3	484	7313638631032501	CMakeFiles/SparseMatrixDSA.dir/ExtendedTest.cpp.obj	799ee51fcc5b2821
+485	626	7313638632352457	SparseMatrixDSA.exe	29ba5ce3c692d696
+4	453	7313638750323155	CMakeFiles/SparseMatrixDSA.dir/main.cpp.obj	c47289ff7841bacf
+453	593	7313638751613288	SparseMatrixDSA.exe	29ba5ce3c692d696
+4	473	7313639062612902	CMakeFiles/SparseMatrixDSA.dir/ExtendedTest.cpp.obj	799ee51fcc5b2821
+473	611	7313639063842875	SparseMatrixDSA.exe	29ba5ce3c692d696
+3	469	7313639202082924	CMakeFiles/SparseMatrixDSA.dir/ExtendedTest.cpp.obj	799ee51fcc5b2821
+469	615	7313639203443551	SparseMatrixDSA.exe	29ba5ce3c692d696
+3	485	7313639266445154	CMakeFiles/SparseMatrixDSA.dir/ExtendedTest.cpp.obj	799ee51fcc5b2821
+486	624	7313639267704720	SparseMatrixDSA.exe	29ba5ce3c692d696

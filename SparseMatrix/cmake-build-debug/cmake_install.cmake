@@ -1,8 +1,8 @@
-# Install script for directory: C:/Users/aliim/Desktop/Structuri-de-Date-si-Algoritmi
+# Install script for directory: C:/Users/aliim/CLionProjects/SparseMatrixDSA
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
-  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/PriorityQueueDSA")
+  set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/SparseMatrixDSA")
 endif()
 string(REGEX REPLACE "/$" "" CMAKE_INSTALL_PREFIX "${CMAKE_INSTALL_PREFIX}")
 
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "C:/Users/aliim/Desktop/Structuri-de-Date-si-Algoritmi/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "C:/Users/aliim/CLionProjects/SparseMatrixDSA/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

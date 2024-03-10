@@ -1,0 +1,3 @@
+C:/Users/aliim/CLionProjects/SparseMatrixDSA/cmake-build-debug/CMakeFiles/SparseMatrixDSA.dir
+C:/Users/aliim/CLionProjects/SparseMatrixDSA/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aliim/CLionProjects/SparseMatrixDSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
